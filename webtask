@@ -1,0 +1,54 @@
+
+<div style="font-family: 'Khmer OS Battambang', Arial, sans-serif; max-width: 400px; border: 1px solid #ccc; padding: 20px;">
+    <div style="text-align: center; font-weight: bold; font-size: 18px; margin-bottom: 15px;">
+        Meanchey Car Parking
+<div style="font-family: 'Khmer OS Battambang', Arial, sans-serif; max-width: 400px; border: 1px solid #ccc; padding: 20px;">
+    
+    <div style="display: flex; justify-content: flex-start; margin-bottom: 10px;">
+        <a href="https://www.facebook.com" target="_blank" style="text-decoration: none; margin-right: 5px;">
+            <span style="padding: 5px 20px; border: 1px solid #ccc; color: black; cursor: pointer; display: inline-block;">ភាសាខ្មែរ</span>
+        </a>
+
+        <a href="https://www.facebook.com" target="_blank" style="text-decoration: none;">
+            <span style="padding: 5px 20px; background-color: #87CEEB; color: black; font-weight: bold; border: 1px solid #87ceeb; cursor: pointer; display: inline-block;">English</span>
+        </a>
+    </div>
+
+    <table style="width: 100%; border-collapse: collapse; border: 1px solid #00AEEF;">
+        <tr>
+            <td style="border: 1px solid #00AEEF; padding: 8px;">Parking Ticket</td>
+            <td style="border: 1px solid #00AEEF; padding: 8px; color: green;">Active</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #00AEEF; padding: 8px;">ID</td>
+            <td style="border: 1px solid #00AEEF; padding: 8px;">BYD25236W</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #00AEEF; padding: 8px;">Plate</td>
+            <td style="border: 1px solid #00AEEF; padding: 8px;">PP-2CJ - 0081</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #00AEEF; padding: 8px;">Name</td>
+            <td style="border: 1px solid #00AEEF; padding: 8px;">KONG PYSAL</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #00AEEF; padding: 8px;">Care Type</td>
+            <td style="border: 1px solid #00AEEF; padding: 8px;">BYD Sealion 5</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #00AEEF; padding: 8px;">Colour</td>
+            <td style="border: 1px solid #00AEEF; padding: 8px;">White</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #00AEEF; padding: 8px;">Date</td>
+            <td style="border: 1px solid #00AEEF; padding: 8px;">06 March 2026</td>
+        </tr>
+    </table>
+
+    <div style="margin-top: 15px; font-size: 14px;">
+        <p><strong>Notice</strong></p>
+        <p>1. Please park you vehicle where designed & order.</p>
+        <p>2. Parking is at your responsibility. The Meanchey Car Parking is not liable for any theif of damage to your vehicle.</p>
+        <p>3. Please don't take this sticker stamp to other car.</p>
+    </div>
+</div>
